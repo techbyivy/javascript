@@ -20,7 +20,7 @@ console.log(`I am a ${character.occupation} by profession`)
 console.log(character['name'])
 console.log(character["age"])
 console.log(character["is Funny"])
-
+ 
 //changing Object properties
 character.name = "Spongebob Square Pants";
 character.age = 30
